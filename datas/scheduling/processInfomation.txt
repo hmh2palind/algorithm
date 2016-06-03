@@ -1,0 +1,5 @@
+#process name	#arrival time	#execute time
+P0	0	5
+P1	1	3
+P2	2	8
+P3	3	6
